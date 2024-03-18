@@ -1,26 +1,27 @@
-Add in the workshop image here 
-
-![Tool Logo](Image filename)
+![Splash image](IntroAITools.jpg)
 
 
-# Title of Workshop
-Description of workshop including what you will learn and any tools that will be used in the process.
+# Introduction to AI Tools
+This workshop will provide an introduction to the basics of what an AI (Artificial Intelligence) is and what common uses AI has today.  The session will be broken up into two parts:
 
-Note recommending any prerequisite knowledge needed for the workshop.  If none is needed then say "No prior experience with WORKSHOP-TOPIC/TOOL is needed for this workshop."
+- A slideshow and discussion section where we will discuss AI
+- A "play" section where we will explore some popular free online AI tools like chatGPT and Dream.ai.
 
-*Estimated length of workshop: ## hours*
+
+No prior experience with this topic is needed for this workshop.
+
+*Estimated length of workshop: 1 hour*
 
 ----
 
 ## Setup Instructions
-In preparation for this workshop, you will need...
+In preparation for this workshop you may optionally create accounts on any of the tools below that you might want to try during the play portion of the session.  This can also be done during the session.
 
-Include:
- - All software that needs to be downloaded
- - Any accounts that will need to be made including links to the sign up pages for those accounts
- - All files that will need to be downloaded in order to participate in the workshop as well as instructions on exactly how to download them.  
+- [OpenAI/ChatGPT](https://chat.openai.com/)
+- [Dream.ai](https://dream.ai/)
+- [Google AI Test Kitchen](https://aitestkitchen.withgoogle.com/)
+- [Runway AI Tools](https://app.runwayml.com/)
 
-For all of the above, keep in mind that some of our attendees could be using machines on campus and therefore might have limitations in regards to downloading tools and files.
 
 ----
 
