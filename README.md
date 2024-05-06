@@ -33,7 +33,15 @@ In addition to the AI tools listed in the Setup section above, some other AI too
 
 ----
 
+## Next Steps
+Now that you have a basic understanding of AI and the tools that use it, the next step is to explore a variety of options to discover what tools will best support you in what you want to do.  Some places that you can start are listed below!
 
+Ithika.org's list of AI tools used by post secondary students and researchers.
+- [https://sr.ithaka.org/our-work/generative-ai-product-tracker/](https://sr.ithaka.org/our-work/generative-ai-product-tracker/)
+
+
+
+----
 
 **This workshop is brought to you by the Brock University Digital Scholarship Lab.  For a listing of our upcoming workshops go to [Experience BU](https://experiencebu.brocku.ca/organization/dsl) if you are a Brock affiliate or [Eventbrite page](https://www.eventbrite.ca/o/brock-university-digital-scholarship-lab-21661627350) for external attendees.**
 
