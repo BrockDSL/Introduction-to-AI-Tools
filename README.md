@@ -10,7 +10,7 @@ This workshop will provide an introduction to the basics of what an AI (Artifici
 
 No prior experience with this topic is needed for this workshop.
 
-*Estimated length of workshop: 1 hour*
+*Estimated length of workshop: 1.5 hours*
 
 ----
 
