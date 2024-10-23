@@ -19,17 +19,26 @@ In preparation for this workshop you may optionally create accounts on any of th
 
 - [OpenAI/ChatGPT](https://chat.openai.com/)
 - [Dream.ai](https://dream.ai/)
-- [Google AI Test Kitchen](https://aitestkitchen.withgoogle.com/)
-- [Runway AI Tools](https://app.runwayml.com/)
-
+- [Google Translate](https://translate.google.com/) 
+- [Google Maps](https://www.google.com/maps)
 
 ----
 
-## Helpful Materials
-In addition to the AI tools listed in the Setup section above, some other AI tools that you may want to try during the "play" portion of the workshop (or after the workshop) are:
+## Common AI Terms
 
-- [Google Translate](https://translate.google.com/)
-- [Google Maps](https://www.google.com/maps)
+- **Algorithm** - A set of commands that must be followed for a computer to perform calculations or other problem-solving operations
+- **Artificial Intelligence** - The theory and development of computer systems able to perform tasks that normally require human intelligence, such as visual perception, speech recognition, decision-making, and translation between languages.
+- **Computer Vision** - Computer Vision refers to methods by which computers can recognize, analyze, and produce descriptions of digital images.
+- **Deep Learning**
+- **Data** (Big Data, Training Data)
+- **Generative AI**
+- **Large Language Model** (LLM)
+- **Machine Learning**
+- **Natural Language Processing**
+- **Neural Network**
+- **Sentiment Analysis** (Opinion Mining)
+- **Token** (Tokenization)
+
 
 ----
 
