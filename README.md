@@ -38,9 +38,8 @@ In preparation for this workshop you may optionally create accounts on any of th
   - **Neural Network** - Neural Networks are a type of Machine Learning modeled after the human brain.  This method focuses on creating nodes with pathways connecting them to create vast networks of interconnected data allowing for "intelligent" decision making.
   - **Large Language Model** - Large Language Models (often referred to as LLM's) are tools that are able to process large datasets (generally "Big Data" datasets) of text to generate text based results.  Often the output of LLM's is in the form of human-sounding responses or ideas.
 - **Natural Language Processing** - Natural Language Processing (often reffered to as NLP) is a general term to describe AI algorithms and models that give computers the ability to understand human language.
-- 
-- **Sentiment Analysis** (Opinion Mining)
-- **Token** (Tokenization)
+- **Sentiment Analysis** - Sentiment Analysis (sometimes called "Opinion Mining") is a type of text analysis that uses AI models to identify the "mood" of a piece of text.  This process generally results in a determination of Positive, Neutral, or Negative being assigned to pieces of text.
+- **Token** - In AI, a token refers to a single piece or "unit" of data that is processed by an algorithm.  Many AI tools use a process called "tokenization" to break apart data into tokens before performing analysis or running algorithms.
 
 
 ----
