@@ -29,7 +29,9 @@ In preparation for this workshop you may optionally create accounts on any of th
 - **Algorithm** - A set of commands or rules that must be followed for a computer to perform calculations or other problem-solving operations.  This can be as simple as a decision tree (like a flowchart) or as complex as a set of instructions of computers on how to parse and learn from data.
 - **Artificial Intelligence** - The theory and development of computer systems able to perform tasks that normally require human intelligence, such as visual perception, speech recognition, decision-making, and translation between languages.
 - **Computer Vision** - Computer Vision refers to methods by which computers can recognize, analyze, and produce descriptions of digital images.
-- **Data** (Big Data, Training Data)
+- **Data** - Data is information that is used for analysis or decision making. (Big Data, Training Data)
+  - **Big Data** -
+  - **Training Data** -
 - **Generative AI**
 - **Large Language Model** (LLM)
 - **Machine Learning** - A type of AI focused on algorithms that allow computers to learn from data to the point that they can make assumptions or "generalizations".  This allows computers to perform more complex tasks without explicit instructions or data.
